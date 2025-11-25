@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student at Essex County College. Right now i'm focused on building my skills and <br> while gaining knowledge needed for my chosen career path.  Give me a chane<br>my foundations will be solid. TY.
+Computer Science student combining UI/UX thinking with hands-on development across <br> front-end, Python, Linux, and cloud technologies. Actively building and uploading projects as <br>I expand my technical skills.
 
 
 ## 🌐 Socials:
